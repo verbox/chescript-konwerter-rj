@@ -1,0 +1,7 @@
+Do wersji 0.0.3:
+- dzia³a linia nocna
+- polskie znaki w legendzie
+
+Do wersji 0.1
+- opis programu
+- powypieprzaæ dzikie kierunki
